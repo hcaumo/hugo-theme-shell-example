@@ -1,4 +1,4 @@
 baseURL = 'https://whimsical-begonia-b78eeb.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-scheme = "shell-retro"
+scheme = "retro"
